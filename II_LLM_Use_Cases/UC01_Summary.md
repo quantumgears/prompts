@@ -3,7 +3,7 @@
 ***Ask an LLM to summarize a block of text and modify the summary.***
 
 
-````
+```
 User:
 
 You are a healthcare expert. Please summarize the following in 100 words or less: 
@@ -20,7 +20,7 @@ Additional benefit criteria include:
 - The hair prosthesis must be obtained from eligible durable medical equipment (DME) or prosthetic and orthotic appliance (P & O) providers
 - Payer will pay no more than the approved amount for a hair prosthesis, minus the applicable deductible and coinsurance requirements
 - Claims must be submitted, by the member, with an itemized receipt and letter of medical necessity from a physician. The letter of medical necessity must contain the patient's diagnosis and/or a description of the defined medical condition or treatment of the medical condition that resulted in hair loss
-````
+```
 
 >**LLM [QS-LLM Aligned]:**
 >
@@ -38,8 +38,9 @@ User: Please rewrite the provided summary in a list format.
 >5. Reimbursement is within predetermined limits.
 >6. Claims require a medical necessity letter and itemized receipt.
 
->**User**: Can you change the summary such that it is more considerate to the person afflicted with the condition?
-
+```
+User: Can you change the summary such that it is more considerate to the person afflicted with the condition?
+```
 *An example of “style control” — i.e., changing the tone or style of the output.*
 
 
