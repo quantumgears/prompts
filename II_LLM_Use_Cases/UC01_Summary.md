@@ -3,31 +3,32 @@
 ***Ask an LLM to summarize a block of text and modify the summary.***
 
 
+````
+User:
 
->**User:**
->
->You are a healthcare expert. Please summarize the following in 100 words or less: 
->
->This modification ADDS benefits for one hair prosthesis (wig) per member, the lifetime of the contract with the following criteria: 
->
->The benefits are limited to members with one of the following medical conditions or treatment thereof: 
->
->- Alopecia
->- Hair loss caused by chemotherapy and/or radiation treatment for malignant and non-malignant conditions
->
->Additional benefit criteria include:
->
->- The hair prosthesis must be obtained from eligible durable medical equipment (DME) or prosthetic and orthotic appliance (P & O) providers
->- Payer will pay no more than the approved amount for a hair prosthesis, minus the applicable deductible and coinsurance requirements
->- Claims must be submitted, by the member, with an itemized receipt and letter of medical necessity from a physician. The letter of medical necessity must contain the patient's diagnosis and/or a description of the defined medical condition or treatment of the medical condition that resulted in hair loss
+You are a healthcare expert. Please summarize the following in 100 words or less: 
+
+This modification ADDS benefits for one hair prosthesis (wig) per member, the lifetime of the contract with the following criteria: 
+
+The benefits are limited to members with one of the following medical conditions or treatment thereof: 
+
+- Alopecia
+- Hair loss caused by chemotherapy and/or radiation treatment for malignant and non-malignant conditions
+
+Additional benefit criteria include:
+
+- The hair prosthesis must be obtained from eligible durable medical equipment (DME) or prosthetic and orthotic appliance (P & O) providers
+- Payer will pay no more than the approved amount for a hair prosthesis, minus the applicable deductible and coinsurance requirements
+- Claims must be submitted, by the member, with an itemized receipt and letter of medical necessity from a physician. The letter of medical necessity must contain the patient's diagnosis and/or a description of the defined medical condition or treatment of the medical condition that resulted in hair loss
+````
 
 >**LLM [QS-LLM Aligned]:**
 >
 >This health insurance modification extends a single hair prosthesis benefit for members with specific medical conditions or treatments leading to hair loss. Coverage is limited to those with Alopecia, chemotherapy-related or radiation-related hair loss. The prosthesis must be obtained from approved durable medical equipment providers and reimbursed within predetermined limits. Claims require a medical necessity letter and itemized receipt.
 
-
->**User**: Please rewrite the provided summary in a list format.
-
+````
+User: Please rewrite the provided summary in a list format.
+````
 >**LLM [QS-LLM Aligned]:**
 >
 >1. Health insurance modification extends a single hair prosthesis benefit.
