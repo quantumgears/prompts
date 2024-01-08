@@ -54,7 +54,6 @@ User: Can you change the summary such that it is more considerate to the person 
 >5. Reimbursement is set within predetermined limits to manage costs effectively.
 >6. To process claims, a letter confirming the medical necessity and an itemized receipt are required.
 
-<br />
 
 **Exercises:** 
 - Extend the summary to 200 words
