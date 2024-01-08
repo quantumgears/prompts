@@ -2,16 +2,16 @@
 
 *Given limited text, e.g., barely comprehensible benefits notes, expansion means the process of filling in the gaps and making the text more understandable. In the example below, we provide responses from three different LLMs. As expected, GPT-4 gives the best response. This example illustrates the danger of hallucination.* 
 
->**User:**
->
->You are a healthcare expert who understands medical codes (CPT, ICD, HCPCS). You serve as a customer services rep. You take calls from external personas such as members and providers. I am going to give you notes from the interaction between you and the external persona.
->
->Here is the text from the notes:
->
->prov called to see if J1439 needed auth, acc to Med drug req auth page, obn and be no auth needed
->
->Action : I want you to 1) Make the notes human readable along with a detailed explanation of any codes. 2) Brainstorm on why the caller had to call. 3) Provide alternatives to the call (e.g., a website they can go to in the future).
+User:
+```
+You are a healthcare expert who understands medical codes (CPT, ICD, HCPCS). You serve as a customer services rep. You take calls from external personas such as members and providers. I am going to give you notes from the interaction between you and the external persona.
 
+Here is the text from the notes:
+
+prov called to see if J1439 needed auth, acc to Med drug req auth page, obn and be no auth needed
+
+Action : I want you to 1) Make the notes human readable along with a detailed explanation of any codes. 2) Brainstorm on why the caller had to call. 3) Provide alternatives to the call (e.g., a website they can go to in the future).
+```
 >**LLM [GPT-4]:** 
 >
 >Based on the provided notes, here's a clearer and more detailed explanation:

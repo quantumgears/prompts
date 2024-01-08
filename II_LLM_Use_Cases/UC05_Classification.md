@@ -2,13 +2,14 @@
 
 ***Ask an LLM to classify a block of text.***
 
->**User:**
->
->Please classify the information in the given text into the specified categories. Provide a brief summary or label for each category you identify. If a category is not applicable or the information is unclear, indicate so in your response.
->
->Categories: Medical Conditions, Treatment Methods,Procedural Information,Pharmaceuticals,Healthcare Providers,Insurance and Billing, Preventive Measures,Patient Instructions.
->
->"The patient was diagnosed with diabetes and prescribed insulin. The doctor recommended a series of blood tests to monitor glucose levels. The hospital, where the patient is receiving treatment, accepts various insurance plans. Additionally, the patient was advised to follow a low-carbohydrate diet and engage in regular exercise to manage the condition."
+User:
+```
+Please classify the information in the given text into the specified categories. Provide a brief summary or label for each category you identify. If a category is not applicable or the information is unclear, indicate so in your response.
+
+Categories: Medical Conditions, Treatment Methods,Procedural Information,Pharmaceuticals,Healthcare Providers,Insurance and Billing, Preventive Measures,Patient Instructions.
+
+"The patient was diagnosed with diabetes and prescribed insulin. The doctor recommended a series of blood tests to monitor glucose levels. The hospital, where the patient is receiving treatment, accepts various insurance plans. Additionally, the patient was advised to follow a low-carbohydrate diet and engage in regular exercise to manage the condition."
+```
 
 >**LLM [QS-LLM Aligned]:**
 >

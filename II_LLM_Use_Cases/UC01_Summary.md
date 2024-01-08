@@ -1,11 +1,10 @@
 ### UC01: Summary
 
-***Ask an LLM to summarize a block of text and modify the summary.***
+*Ask an LLM to summarize a block of text and modify the summary.*
 
 
-```
 User:
-
+```
 You are a healthcare expert. Please summarize the following in 100 words or less: 
 
 This modification ADDS benefits for one hair prosthesis (wig) per member, the lifetime of the contract with the following criteria: 
@@ -26,8 +25,9 @@ Additional benefit criteria include:
 >
 >This health insurance modification extends a single hair prosthesis benefit for members with specific medical conditions or treatments leading to hair loss. Coverage is limited to those with Alopecia, chemotherapy-related or radiation-related hair loss. The prosthesis must be obtained from approved durable medical equipment providers and reimbursed within predetermined limits. Claims require a medical necessity letter and itemized receipt.
 
+User:
 ````
-User: Please rewrite the provided summary in a list format.
+Please rewrite the provided summary in a list format.
 ````
 >**LLM [QS-LLM Aligned]:**
 >
@@ -38,8 +38,9 @@ User: Please rewrite the provided summary in a list format.
 >5. Reimbursement is within predetermined limits.
 >6. Claims require a medical necessity letter and itemized receipt.
 
+User: 
 ```
-User: Can you change the summary such that it is more considerate to the person afflicted with the condition?
+Can you change the summary such that it is more considerate to the person afflicted with the condition?
 ```
 *An example of “style control” — i.e., changing the tone or style of the output.*
 

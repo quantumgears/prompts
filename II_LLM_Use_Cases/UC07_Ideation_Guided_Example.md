@@ -2,10 +2,10 @@
 
 *This example uses a common prompting technique called “Role Task Format”*
 
->**User**:
->
->You are an expert in health insurance. Generate an example healthcare taxonomy. Be sure to include Mental Health and Prescription Drugs. The taxonomy only needs to be two nodes deep.
-
+User:
+```
+You are an expert in health insurance. Generate an example healthcare taxonomy. Be sure to include Mental Health and Prescription Drugs. The taxonomy only needs to be two nodes deep.
+```
 *Notice usage of RTF (Role, Task, Format) prompt here. And the user specifies to keep the taxonomy shallow at first, starting general and leaving room for later iteration once the user is happy with the first two levels.*
 
 >**LLM [GPT-4]:**
@@ -30,8 +30,10 @@
 >
 >This structure provides a clear and concise overview, categorizing key areas within Mental Health and Prescription Drugs. Each sub-category under these two main nodes represents a specific aspect or type of service/medication within the broader category.
 
->**User:**  Can you add a third layer of depth? It should give a brief explanation of the node one up the tree
-
+User:
+```
+Can you add a third layer of depth? It should give a brief explanation of the node one up the tree
+```
 *Instruct the LLM specifically with how it should extend its earlier output. "Context" is preserved, meaning it will remember its previous outputs.*
 
 >**LLM [GPT-4]:**
@@ -73,8 +75,10 @@
 >
 >This expanded taxonomy provides a more comprehensive understanding of the services and medications within the Mental Health and Prescription Drugs categories.
 
->**User:**  Why wasn't equine therapy included under mental health? Is equine therapy not a kind of mental health?
-
+User:
+```
+Why wasn't equine therapy included under mental health? Is equine therapy not a kind of mental health?
+```
 *An example of self-check: The user wonders why a specific therapy that he is aware of was not included in this high level taxonomy, so asks the LLM to check itself.* 
 
 >**LLM [GPT-4]:**
