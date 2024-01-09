@@ -16,20 +16,24 @@ Below are some general tips to keep in mind that may improve LLM output
         
         Example:
         
-        >User: Please summarize this text: {text}
-        
+        User:
+        ```
+        Please summarize this text: {text}
+        ```
         >LLM: {summary}
         
         ---
         
-        >User: Please summarize this text between the block quotes:
-        >
-        >‘ ‘ ‘
-        >
-        >{text}
-        >
-        >‘ ‘ ‘
+        User: 
+        ```
+        Please summarize this text between the block quotes:
         
+        ‘ ‘ ‘
+        
+        {text}
+        
+        ‘ ‘ ‘
+        ```
         >LLM: {better summary}
         
 8. Specify the intermediate steps (“first calculate X, then use X to find Y”)

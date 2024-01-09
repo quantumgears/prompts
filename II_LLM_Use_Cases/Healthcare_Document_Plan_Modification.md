@@ -4,38 +4,40 @@ Document: [2104954.pdf](/docs/2104954.pdf)
 
 Text version: [2104954.txt](/docs/2104954.txt)
 
->**User:** Please give me a summary of this document form perspective of a member
-
+User: 
+```
+Please give me a summary of this document form perspective of a member
+```
 >**QS-LLM Fast:** 
 >
 >The document proposes a modification to the Simple Blue HSA Group Benefits Certificate with Prescription Drugs ASC, which is an account held by Sapa Precision Tubing Adrian Inc. [We are uncertain about the reason for the modification, no changes are specified in the provided portion of the document]. The modification aims to change the coverage for chiropractic services, outpatient visits, physical therapy, occupational therapy, and speech-language pathology. The maximum number of visits for chiropractic spinal manipulations and osteopathic manipulative therapy has been increased from 12 to 24 per member per calendar year, which applies to both in-network and out-of-network providers. The maximum number of visits for physical therapy, occupational therapy, and speech-language pathology is also increased from 30 to 60 combined visits, which also applies to both in-network and out-of-network outpatient visits, regardless of location. The document also includes a note stating that since this group is self-funded under an ASC arrangement, a rider for this modification will not be filed with the Michigan Department of Insurance and Financial Services.
 >
 >As for the CONFIDENCE_SCORE: 60% (We are uncertain about the reason for the modification and no specific changes are specified in the provided portion of the document.)
 
->**User:** 
->
->How does the ASC Plan Modification 8656 change the coverage for chiropractic services and osteopathic manipulative therapy, and what could be the potential impact on members' health benefits?
-
+User: 
+```
+How does the ASC Plan Modification 8656 change the coverage for chiropractic services and osteopathic manipulative therapy, and what could be the potential impact on members' health benefits?
+```
 >**QS-LLM Fast:** 
 >
 >The ASC Plan Modification 8656 changes the coverage for chiropractic services and osteopathic manipulative therapy by increasing the maximum number of visits per member, per calendar year from 12 to 24. This modification also increases the maximum for chiropractic spinal manipulations and osteopathic manipulative therapy to 24 combined visits per member, per calendar year, allowing visits with in-network and out-of-network providers to count toward the maximum. The potential impact on members' health benefits could be positive as they may receive more treatments that could improve their overall health and well-being. However, this modification may also result in higher costs for the plan sponsor and potentially higher premiums for members. Members may need to carefully manage their visits to ensure they don't exceed the maximum limit.
 >
 >CONFIDENCE_SCORE: 90% (Based on information available in the document)
 
->**User:** 
->
->How might the changes in the ASC Plan Modification 8656 reflect broader trends in health care benefits management, particularly in relation to high-deductible health plans like the Simply Blue HSA?
-
+User: 
+```
+How might the changes in the ASC Plan Modification 8656 reflect broader trends in health care benefits management, particularly in relation to high-deductible health plans like the Simply Blue HSA?
+```
 >**QS-LLM Fast:** 
 >
 >The changes in the ASC Plan Modification 8656 may reflect broader trends in health care benefits management, particularly in relation to high-deductible health plans like the Simply Blue HSA, by increasing the maximum for chiropractic spinal manipulations and osteopathic manipulative therapy, expanding coverage for chiropractic services, increasing the maximum number of visits allowed for chiropractic spinal manipulations and osteopathic manipulative therapy, and increasing the maximum number of outpatient visits for physical therapy, occupational therapy, and speech and language pathology. These changes may reflect a growing demand for alternative and complementary health services, a recognition of the importance of preventive care and alternative therapies in managing overall health and reducing healthcare costs, a shift towards more consumer-driven healthcare, a growing emphasis on value-based care and member-centered decision-making, and an effort to provide more comprehensive coverage for certain types of services while encouraging members to choose cost-effective options.
 >
 >CONFIDENCE_SCORE: High.
 
->**User:** 
->
->You are a health benefits analyst reviewing the recent changes made by the ASC Plan Modification 8656 for SAPA Precision Tubing Adrian Inc. Please prepare an analysis for senior management outlining key changes in the document
-
+User: 
+```
+You are a health benefits analyst reviewing the recent changes made by the ASC Plan Modification 8656 for SAPA Precision Tubing Adrian Inc. Please prepare an analysis for senior management outlining key changes in the document
+```
 >**QS-LLM Fast:** 
 >
 >Based on the given portion of the document, the ASC Plan Modification 8656 for SAPA Precision Tubing Adrian Inc. includes the following key changes:
@@ -47,16 +49,18 @@ Text version: [2104954.txt](/docs/2104954.txt)
 >
 >As for the confidence score, I am 80% confident in my answer based on the information provided.
 
->**User:** 
->
->As an Employee Wellness Coordinator, how can the increased coverage for therapies be integrated into the broader wellness initiatives to maximize employee health outcomes?
-
+User: 
+```
+As an Employee Wellness Coordinator, how can the increased coverage for therapies be integrated into the broader wellness initiatives to maximize employee health outcomes?
+```
 >**QS-LLM Fast:** 
 >
 >As an Employee Wellness Coordinator, the increased coverage for therapies can be integrated into the broader wellness initiatives by promoting the use of these therapies as part of a comprehensive wellness program. To maximize employee health outcomes, it is important to conduct a needs assessment to identify the specific needs and concerns of the employees, develop a wellness plan aligned with the company's overall mission, communicate the plan to all employees, provide access to therapies as part of the wellness plan, and educate employees on the benefits and proper use of these therapies.
 
->**User:** What administrative changes need to be implemented to accommodate these increased visit limits?
-
+User: 
+```
+What administrative changes need to be implemented to accommodate these increased visit limits?
+```
 >**QS-LLM Fast:** 
 >
 >To accommodate the increased visit limits for physical therapy, occupational therapy, and speech and language pathology, as well as chiropractic spinal manipulations, osteopathic manipulative therapy, and other services, the following administrative changes may need to be implemented:
@@ -72,8 +76,10 @@ Text version: [2104954.txt](/docs/2104954.txt)
 >
 >For now, I would rate the answer with a moderate level of confidence (CONFIDENCE\_SCORE = 7).
 
->**User:** what are different stakeholder groups for this document, and what is the best way to communicate these changes to the stakeholders ?
-
+User: 
+```
+what are different stakeholder groups for this document, and what is the best way to communicate these changes to the stakeholders ?
+```
 >**QS-LLM Fast:** 
 >
 >The stakeholder groups for this document are Sapa Precision Tubing Adrian Inc., the Michigan Department of Insurance and Financial Services, and the employees of Sapa Precision Tubing Adrian Inc. who are covered by the Simply Blue HSA Group Benefits Certificate with Prescription Drugs ASC.

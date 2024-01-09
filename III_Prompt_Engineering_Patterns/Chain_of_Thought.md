@@ -4,16 +4,20 @@
 
 Example **without** chain of thought:
 
->**User:** Your department has a budget of $50,000. You spend $10,000 on new software licenses and allocate $15,000 for marketing. You later receive a budget increase of $5,000. What is your remaining budget?
-
+User: 
+```
+Your department has a budget of $50,000. You spend $10,000 on new software licenses and allocate $15,000 for marketing. You later receive a budget increase of $5,000. What is your remaining budget?
+```
 >**LLM [QS-LLM Aligned]:** You have a remaining budget of $20,000 after spending $10,000 on new software licenses, $15,000 on marketing, and taking a $5,000 budget increase.
 
 *Note: the answer is incorrect*
 
 **With chain of thought:**
 
->**User:**  Your department has a budget of $50,000. You spend $10,000 on new software licenses and allocate $15,000 for marketing. You later receive a budget increase of $5,000. What is your remaining budget? **Let’s think step by step.**
-
+User:  
+```
+Your department has a budget of $50,000. You spend $10,000 on new software licenses and allocate $15,000 for marketing. You later receive a budget increase of $5,000. What is your remaining budget? Let’s think step by step.
+```
 >**LLM [QS-LLM Aligned]:**
 >
 >Sure, let's break it down step by step:

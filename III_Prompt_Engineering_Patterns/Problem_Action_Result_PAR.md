@@ -2,14 +2,14 @@
 
 Example:
 
->**User:**
->
->Problem: A member's claim was denied.
->
->Action: Please draft a letter to the provider stating the reasons for the denial.
->
->Result: The provider can either accept the result. But also allow him the option to submit the claim with new information that might allow the claim to be accepted
+User:
+```
+Problem: A member's claim was denied.
 
+Action: Please draft a letter to the provider stating the reasons for the denial.
+
+Result: The provider can either accept the result. But also allow him the option to submit the claim with new information that might allow the claim to be accepted
+```
 >**LLM [QS-LLM Aligned]:**
 >
 >[Provider's Name]
