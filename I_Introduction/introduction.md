@@ -4,7 +4,7 @@
 
 Welcome to the QS SecureGPT Prompt Cookbook. This document contains several prompt engineering techniques to help you maximize productivity gains from using an LLM.
 
-But first, let’s start with some basic terminology that we will use throughout. A large language model, or LLM, is the technology underneath QS SecureGPT. An LLM is a specific kind of *generative AI* (GenAI) **meaning a kind of artificial intelligence that generates content. In our case, that content is text, though there are other GenAI models that output other content like images, video, and code.
+But first, let’s start with some basic terminology that we will use throughout. A large language model, or LLM, is the technology underneath QS SecureGPT. An LLM is a specific kind of *generative AI* (GenAI), meaning a kind of artificial intelligence that generates content. In our case, that content is text, though there are other GenAI models that output other content like images, video, and code.
 
 GenAI is called so in opposition to other kinds of artificial intelligence, like natural language processing (NLP), which is more commonly used in decision-making contexts. For example, AI is often used in claims processing to partially automate adjudication. But an NLP engine does not itself generate new content.
 
