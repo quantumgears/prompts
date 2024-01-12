@@ -40,7 +40,7 @@ Please rewrite the provided summary in a list format.
 
 User: 
 ```
-Can you change the summary such that it is more considerate to the person afflicted with the condition?
+Can you change the summary such that it is more considerate to a person who needs a prosthesis?
 ```
 *An example of “style control” — i.e., changing the tone or style of the output.*
 
