@@ -1,4 +1,4 @@
-![QuantumSim-Logo](./_images/QuantumSim-llm-native.png)
+![QuantumSim-Logo](_images/QuantumSim-llm-native.png)
 
 # QS Prompt Cookbook
 
@@ -16,8 +16,8 @@
 - [UC07: Ideation (Guided Example)](/II_LLM_Use_Cases/UC07_Ideation_Guided_Example.md)
 
 ### B. Document Chat
-- [Healthcare Document — Benefits Rider](/II_LLM_Use_Cases/Healthcare_Document_Benefits_Rider.md)
-- [Healthcare Document — Plan Modification](/II_LLM_Use_Cases/Healthcare_Document_Plan_Modification.md)
+<!-- - [Healthcare Document — Benefits Rider](/II_LLM_Use_Cases/Healthcare_Document_Benefits_Rider.md)
+- [Healthcare Document — Plan Modification](/II_LLM_Use_Cases/Healthcare_Document_Plan_Modification.md) -->
 - [Legal Document — Warranty](/II_LLM_Use_Cases/Legal_Document_Warranty.md)
 
 ## [III. Prompt Engineering Patterns](#)
