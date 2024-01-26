@@ -56,6 +56,26 @@ Can you change the summary such that it is more considerate to a person who need
 >6. To process claims, a letter confirming the medical necessity and an itemized receipt are required.
 
 
+User: 
+```
+Please summarize it in five items and show it in a tabular form
+```
+
+>**LLM [QS-LLM Aligned]:**
+>| Item | Description|
+>|-----------------|------------------------------------------------------------------------|
+>| Coverage | One hair prosthesis (wig) per member for the contract duration  |
+>| Eligibility | Members diagnosed with alopecia or undergoing chemotherapy/radiation |
+>| Provider criteria | Eligible DME or P&O suppliers                                         |
+>| Payment  | Payer pays approved amount less deductibles and coinsurance   |
+>| Requirements | Claims, itemized receipt, and physician's letter of medical necessity  |
+
+
+
+
+
+
+
 **Exercises:** 
 - Extend the summary to 200 words
 - Make the tone of the summary more professional
