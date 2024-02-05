@@ -19,6 +19,7 @@
 <!-- - [Healthcare Document — Benefits Rider](/II_LLM_Use_Cases/Healthcare_Document_Benefits_Rider.md)
 - [Healthcare Document — Plan Modification](/II_LLM_Use_Cases/Healthcare_Document_Plan_Modification.md) -->
 - [Legal Document — Warranty](/II_LLM_Use_Cases/Legal_Document_Warranty.md)
+- [Article Analysis](II_LLM_Use_Cases/Document_Article_Analysis.md)
 
 ## [III. Prompt Engineering Patterns](#)
 - [Persona](/III_Prompt_Engineering_Patterns/Persona.md)
