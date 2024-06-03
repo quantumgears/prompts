@@ -6,7 +6,7 @@ Example:
 
 User:
 ```
-I work for a healthcare payer. Explain to me how a more efficient prior authorization system would benefit my organization. ****Don't tell me how it will affect our budget. Instead, focus on how it would improve member experience.
+I work for a healthcare payer. Explain to me how a more efficient prior authorization system would benefit my organization. Don't tell me how it will affect our budget. Instead, focus on how it would improve member experience.
 ```
 >**LLM [QS-LLM Aligned]:**
 >
