@@ -28,6 +28,6 @@ Part of the reason that prompt engineering is important is that LLMs can “hall
 
 Some miscellaneous notes to keep in mind as you progress through: 
 
-- User requests to an LLM are highlighted in green; LLM responses are blue
-- The LLM output is from QS-LLM Aligned unless otherwise noted
+- User requests can be copied with the button on the top right
+- The LLM output is from QS-LLM Fast unless otherwise noted
 - Because LLM output is not deterministic, sending the same prompts to the same LLMs does not always return the same results.
